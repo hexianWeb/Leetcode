@@ -1,0 +1,1 @@
+    if (braketCheck(str, length))
